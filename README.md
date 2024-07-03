@@ -1,4 +1,4 @@
-# Smart Occupancy Lighting System using YOLOv8
+# LumenSense AI using YOLOv8
 ## Introduction
 The Smart Occupancy Lighting System is an innovative solution that leverages computer vision and machine learning to automate lighting control in indoor spaces. Using YOLOv8, a state-of-the-art object detection model, this system accurately detects and counts occupants in real-time, adjusting lighting accordingly to optimize energy usage.
 ## Features
